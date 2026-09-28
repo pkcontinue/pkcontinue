@@ -1,12 +1,12 @@
 <div align="center">
 
 <a href="https://github.com/pkcontinue">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Julius+%F0%9F%91%8B;Student+%40+Nanjing+University;Learning+%C2%B7+Building+%C2%B7+Sharing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Julius+%F0%9F%91%8B;Tencent+Hunyuan+%C2%B7+Alibaba+Taotian;Learning+%C2%B7+Building+%C2%B7+Sharing" alt="Typing SVG" />
 </a>
 
 <br/>
 
-**🎓 Student at Nanjing University · Nanjing, China**
+**🏢 Tencent Hunyuan · Alibaba Taotian &nbsp;·&nbsp; 📍 Nanjing, China**
 
 <a href="https://github.com/pkcontinue?tab=followers"><img src="https://img.shields.io/github/followers/pkcontinue?label=Followers&style=for-the-badge&color=7aa2f7&labelColor=1a1b26&logo=github" alt="followers"></a>
 <a href="https://github.com/pkcontinue?tab=stars"><img src="https://img.shields.io/github/stars/pkcontinue?label=Stars&style=for-the-badge&color=e0af68&labelColor=1a1b26&logo=github" alt="stars"></a>
@@ -22,9 +22,9 @@
 
 ```yaml
 name:      Julius
-company:   Nanjing University
+company:   [ Tencent Hunyuan, Alibaba Taotian ]
 location:  Nanjing, China
-focus:     [ Cloud Computing, Full-Stack, AI ]
+focus:     [ LLM, Cloud Computing, Full-Stack ]
 hobbies:   [ building things, reading, open source ]
 motto:     "Talk is cheap. Show me the code."
 ```
@@ -42,9 +42,17 @@ motto:     "Talk is cheap. Show me the code."
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+**AI / LLM**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 **Frontend & Backend**
 
@@ -52,6 +60,7 @@ motto:     "Talk is cheap. Show me the code."
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 **DevOps & Tools**
 
